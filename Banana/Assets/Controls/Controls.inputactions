@@ -1,0 +1,54 @@
+{
+    "name": "Controls",
+    "maps": [
+        {
+            "name": "GameControls",
+            "id": "fcf3fda7-7083-49ba-a93e-9d21a5019a98",
+            "actions": [
+                {
+                    "name": "jump",
+                    "type": "Button",
+                    "id": "33c1ef7e-ad10-4b76-a84c-91e72f4ed124",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "hit",
+                    "type": "Button",
+                    "id": "e42e1ffa-8448-4e40-8afa-bdce046b7f86",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "7607bc5d-1e41-48f5-bb93-45387714b547",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "f8bf3de6-43d5-491f-a052-9f11edc012c2",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "hit",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

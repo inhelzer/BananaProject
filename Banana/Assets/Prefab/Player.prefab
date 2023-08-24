@@ -136,4 +136,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c9277a660d7254cadb4ef1ff1dbce017, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  changeSprite: {fileID: 0}
+  changeSprite: {fileID: 21300000, guid: 77d46357a944e3e4a8e35d568db6b225, type: 3}
